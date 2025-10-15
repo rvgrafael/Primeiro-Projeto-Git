@@ -1,1 +1,1 @@
-Meu primeiro arquivo versionado com Git!
+Olá, esta é a branch conflito-teste!
